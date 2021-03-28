@@ -10,6 +10,6 @@ https://www.instagram.com/yar.ek/
 
 
 ### Fun legal stuff
-[privacy](privacy info.txt)
+[privacy](https://github.com/VladislavEkimtcov/DrinkOrDareWebsite/blob/gh-pages/privacy%20info.txt)
 
-[CYA](DoD EULA.docx)
+[CYA](https://github.com/VladislavEkimtcov/DrinkOrDareWebsite/blob/gh-pages/DoD%20EULA.docx)
