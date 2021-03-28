@@ -1,5 +1,4 @@
 ## Welcome to Drink or Dare's app website!
-[DOWNLOAD](COming soon!!!)
 
 ### Reach out
 [Vlad](https://www.instagram.com/vlads_pixel/)
