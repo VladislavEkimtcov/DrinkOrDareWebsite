@@ -2,9 +2,9 @@
 [DOWNLOAD](COming soon!!!)
 
 ### Reach out
-https://www.instagram.com/vlads_pixel/
+[Vlad](https://www.instagram.com/vlads_pixel/)
 
-https://www.instagram.com/yar.ek/
+[Yarek](https://www.instagram.com/yar.ek/)
 
 [email](mailto:drinkordareapp@gmail.com)
 
