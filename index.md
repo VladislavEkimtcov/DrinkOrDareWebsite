@@ -9,6 +9,6 @@
 
 
 ### Fun legal stuff
-[privacy](https://github.com/VladislavEkimtcov/DrinkOrDareWebsite/blob/gh-pages/privacy%20info.txt)
+[privacy](privacy.md)
 
-[CYA](https://github.com/VladislavEkimtcov/DrinkOrDareWebsite/blob/gh-pages/DoD%20EULA.docx)
+[CYA](legal.md)
