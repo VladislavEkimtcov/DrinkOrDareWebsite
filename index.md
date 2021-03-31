@@ -1,4 +1,4 @@
-## Welcome to Drink or Dare's app website!
+## Welcome to the PartyBuzz app website!
 
 ### Reach out
 [Vlad](https://www.instagram.com/vlads_pixel/)
