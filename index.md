@@ -5,7 +5,7 @@
 
 [Yarek](https://www.instagram.com/yar.ek/)
 
-[email](mailto:drinkordareapp@gmail.com)
+[email](mailto:partybuzzdev@gmail.com)
 
 
 ### Fun legal stuff
